@@ -6,7 +6,7 @@
 
 ## 🎯 Project Overview
 
-The **Dispute Resolution Portal** enables users to submit transaction disputes and staff to manage and resolve them — all through a clean dual-view Power App. It leverages Microsoft 365 tools for process automation, analytics, security, and Agile tracking.
+The **Dispute Resolution Portal** enables users to submit transaction disputes and staff to manage and resolve them  all through a clean dual-view Power App. It leverages Microsoft 365 tools for process automation, analytics, security, and Agile tracking.
 
 | Feature                      | Tool Used                     |
 |-----------------------------|-------------------------------|
