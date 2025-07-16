@@ -77,5 +77,5 @@ This project uses the Agile process model with user stories, sprint tasks, and a
 
 ---
 
-## 📁 File Tree (Suggested GitHub Structure)
+
 
