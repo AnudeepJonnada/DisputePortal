@@ -29,6 +29,14 @@ The **Dispute Resolution Portal** enables users to submit transaction disputes a
   - Attachments (Evidence)
   - Status dropdown (Pending, In Progress, Resolved)
 
+    ## 🎥 Demo Video
+
+Watch the user experience in action:
+
+[![Watch the demo](https://www.loom.com/share/cb906b21baf84c6e8478f0ac2118a241?sid=b904a19b-17dc-4f7d-9275-493970e34c26)
+
+    
+
 - 👨‍💼 **Admin View**:
   - Gallery of submitted disputes
   - Filtering by Status
