@@ -43,7 +43,8 @@ Watch the user experience in action:
   - Filtering by Status
   - Inline status updates
     
-![SharePoint Screenshot]
+![SharePoint Screenshot](<img width="1470" height="870" alt="Screenshot 2025-07-16 at 2 36 01 AM" src="https://github.com/user-attachments/assets/c0c209d5-7133-45f8-90b3-14e9344796ae" />
+)
 
 - 🔁 **Automation Flows**:
   - 📩 Confirmation Email to user on submission
