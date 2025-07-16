@@ -49,12 +49,3 @@ The **Dispute Resolution Portal** enables users to submit transaction disputes a
 
 ---
 
-## 📂 Folder Structure
-
-```bash
-DisputePortal/
-├── README.md
-├── AGILE.md
-├── /screenshots            # UI + SharePoint + Flow screenshots
-├── /flows                  # Power Automate Flow exports (.zip/.json)
-├── /docs                   # Azure DevOps board screenshots, slides
